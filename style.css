@@ -1,0 +1,29 @@
+body {
+	background-color:   #ffffff;
+  font-family:        'Berthold akzidenz grotesk', Regular; 
+  margin:             3vw;
+  
+}
+
+h2 {
+  color:              #000000;
+	font-size:          6vw;
+	font-weight:        bold;
+	line-height:        7vw;
+	margin-top:         0;
+}
+
+h3 {
+	color:              #000000;
+	font-size:          6vw;
+	font-weight:        bold;
+	line-height:        7vw;
+	margin-top:         0;
+	}
+p {
+  color:              #000000;
+	font-size:          6vw;
+	font-weight:        bold;
+	line-height:        7vw;
+	margin-top:         0;
+}
